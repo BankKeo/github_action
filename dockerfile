@@ -17,4 +17,4 @@ RUN yarn
 COPY . .
 
 # Starting our application
-CMD yarn start
+CMD yarn dev
